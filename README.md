@@ -69,10 +69,11 @@ $ expo start
 ## 🦸 Autor
 <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/">
   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/49786548/98873391-0df75600-2457-11eb-9b10-210cc591a035.png" width="100px;">
-<br /><br />
+<br />
  <sub><b>Anderson Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/"" title="Anderson Fernandes">🚀</a>
- <br />
+ 
 </a>
+<br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@Anderson130996-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anderson130996)](https://twitter.com/Anderson130996) 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/) 
