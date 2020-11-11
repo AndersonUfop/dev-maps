@@ -1,21 +1,21 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49786548/98873047-6d089b00-2456-11eb-8ea4-eec08d6ff0be.png" width="500px">
 </p>
-
-
 <p align="center">
   <a href="#-projeto">Projeto</a> •
   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> •
   <a href="#-como-executar-o-projeto">Como executar o projeto</a> •
   <a href="#-como-contribuir">Como contribuir</a> •
   <a href="#-autor">Autor</a> •
-  <a href="#-licença">Licença</a> •
+  <a href="#-licença">Licença</a> 
 </p>
+
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AndersonUfop/dev-maps">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AndersonUfop/dev-maps">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AndersonUfop/dev-maps?color=blue">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AndersonUfop/dev-maps?color=blue">
   
 </p>
 
@@ -69,7 +69,7 @@ $ expo start
 ## 🦸 Autor
 <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/">
   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/49786548/98873391-0df75600-2457-11eb-9b10-210cc591a035.png" width="100px;">
-<br />
+<br /><br />
  <sub><b>Anderson Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/"" title="Anderson Fernandes">🚀</a>
  <br />
 </a>
