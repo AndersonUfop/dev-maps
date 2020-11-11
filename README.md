@@ -83,7 +83,7 @@ $ expo start
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sob a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Anderson Fernandes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
 
