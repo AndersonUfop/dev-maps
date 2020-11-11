@@ -83,7 +83,7 @@ $ expo start
 
 ## 📝 License
 
-This project is under license [MIT] (./LICENSE).
+This project is under license [MIT](./LICENSE).
 
 Made with ❤️ by Anderson Fernandes 👋🏽 [Contact us!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
 
